@@ -10,7 +10,7 @@ client.user.setGame(`WG | -help`,'https://www.twitch.tv/ℕ g A M Codes♥');
 
 
 client.on('message', message => {
-              var prefix = "$" ;
+              var prefix = "-" ;
   if (message.content.startsWith(prefix + "admin")) {
   let embed = new Discord.RichEmbed()
       .setColor("RANDOM")
