@@ -706,7 +706,8 @@ client.on('message', message => {
 🖤(-emojis ⟿⟿⟿⟿⟿ Emoji Of Server)🖤
 
 
-💜_____ 🖤😎 - Premium BotEpic - 😎🖤  _____💜
+💜_____ 🖤😎 - 𝙒𝙖𝙚𝙡 𝙂𝙖𝙢𝙞𝙣𝙜 - 😎🖤  _____💜
+
 
  `)
    message.channel.sendEmbed(embed)
